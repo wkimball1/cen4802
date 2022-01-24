@@ -1,3 +1,10 @@
+/**
+* Returns the nth term and the x value of the Fibonacci sequence
+* the fib class is called recursively until the value is found.
+*
+* @param  long the term of fibonacci the user wants the value of
+* @return long the value of the nth term
+*/
 public class Fibonacci {
 
 	public static void main(String[] args) {
